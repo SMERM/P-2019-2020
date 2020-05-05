@@ -1,7 +1,25 @@
 # Corso Propedeutico: lezione del 12/05/2020 (modalità remota)
 
-## Argomenti trattati: **Tecniche Compositive della Musica Contemporanea**
+## Argomenti trattati: **INFORMATICA**
 
-### Il Ritmo
+### Introduzione all'informatica
 
-## Lavagne
+* lo standard ASCII
+* Altri set di caratteri (Latin-1, UTF-8)
+* Set multi-byte
+* come funziona un programma (codice binario)
+* la sequenza di *boot*
+* la stratificazione del *software*
+  * sistema operativo
+    * kernel
+      * *user space*, *kernel space*
+      * *kernel drivers*
+      * *outer shell*
+    * le applicazioni
+    * interazioni applicazioni/kernel
+* che cos'è la programmazione:
+  * codice macchina
+  * *assembly code*
+  * linguaggi di alto livello:
+    * compilatori
+    * interpreti
