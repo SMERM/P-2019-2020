@@ -91,4 +91,4 @@ Questo codice produce il grafico seguente:
   * funzione *sinusoidale*
   * funzione *cosinusoidale*
 
-![funzioni periodiche](./funzioni_periodiche.jpg)
+![funzioni periodiche](./funzioni_periodiche.png)
