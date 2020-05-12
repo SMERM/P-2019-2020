@@ -38,6 +38,10 @@
 
 ![operating systems](./operating_system.png)
 
+### Il *software*
+
+![software](./software.png)
+
 ## Codice scritto in classe
 
 ### ["Ciao Arturo!" scritto in linguaggio `C` (compilato)](./ciao_arturo.c)
