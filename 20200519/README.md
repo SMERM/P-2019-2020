@@ -4,4 +4,7 @@
 
 ### Il Ritmo
 
+### La Forma
+
 ## Lavagne
+![forme classiche](./forme_classiche.png)
