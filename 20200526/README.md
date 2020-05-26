@@ -11,14 +11,16 @@
   * ampiezza costante
 
 ### Lavagne
-![funzioni periodiche 0]{./funzioni_periodiche_0.png}
 
-![funzioni periodiche 1]{./funzioni_periodiche_1.png}
+![funzioni periodiche 0](./funzioni_periodiche_0.png)
 
-![funzioni periodiche 2]{./funzioni_periodiche_2.png}
+![funzioni periodiche 1](./funzioni_periodiche_1.png)
 
-![funzioni periodiche 3]{./funzioni_periodiche_3.png}
-![il teorema di pitagora]{./teorema_di_pitagora.png}
+![funzioni periodiche 2](./funzioni_periodiche_2.png)
+
+![funzioni periodiche 3](./funzioni_periodiche_3.png)
+
+![il teorema di pitagora](./teorema_di_pitagora.png)
 
 ### Codice `octave`
 
@@ -33,4 +35,4 @@ plot(t,fs,t,fc);
 
 Questo programma produce il grafico seguente:
 
-![sencos.m]{./sencos.png}
+![sencos.m](./sencos.png)
