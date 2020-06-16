@@ -4,6 +4,4 @@
 
 ### Atonalità libera
 
-### Il Serialismo
-
-## Lavagne
+### La Dodecafonia
