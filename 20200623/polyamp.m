@@ -1,0 +1,10 @@
+t=[-1:0.01:8];
+xp=[0 1.8 2.6 4.2 4.8 5.5 6.5];
+yp=[0.5 1 0.9 1.3 1 1 0.2];
+p=polyfit(xp,yp,length(xp)-1);
+amp=polyval(p,t);
+amp=max(amp,0.2);
+f=1.5;
+W=f*2*pi;
+y=amp.*cos(W*t);
+plot(t,y,t,amp);

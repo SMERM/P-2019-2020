@@ -1,0 +1,10 @@
+t=[-1:0.01:8];
+ampm=0.25;
+ampoffset=1-(2*ampm);
+fm=0.31;
+Wm=fm*2*pi;
+amp=ampm*cos(Wm*t)+ampoffset;
+f=1.5;
+W=f*2*pi;
+y=amp.*cos(W*t);
+plot(t,y,t,amp);
